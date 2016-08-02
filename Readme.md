@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Дарья Фролова](https://up.htmlacademy.ru/htmlcss/14/user/236847).
+* Наставник: [Николай Маркелов](https://up.htmlacademy.ru/htmlcss/14/user/235291).
 
 ---
 
